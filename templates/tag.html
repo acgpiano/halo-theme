@@ -5,7 +5,7 @@
 >
   <th:block th:fragment="content">
     <div id="archive">
-      <h2 th:text="'标签：' + ${tag.spec?.displayName}">标签</h2>
+      <h2 th:text="'tag: ' + ${tag.spec?.displayName}">tag</h2>
       <ul class="post-list">
         <li class="post-item" th:each="post : ${posts}">
           <div class="meta">

@@ -1,5 +1,5 @@
 .theme-dark {
-    --color-background: #1d1f21;
+    --color-background: #000000;
     --color-footer-mobile-1: #8c8b8b;
     --color-footer-mobile-2: #27292B;
     --color-background-code: #222426;
@@ -12,6 +12,6 @@
     --color-time: #adaeaf;
     --color-accent-3: #cccccc;
     --color-accent-2: #eeeeee;
-    --color-accent-1: #2bbc8a;
+    --color-accent-1: #00c000;
     --color-quote: #ccffb6;
 }
